@@ -2,6 +2,7 @@ package com.practice.design.pattern.behavioural.chainofresponsibility.impl;
 
 import com.practice.design.pattern.behavioural.chainofresponsibility.api.AuthenticationProcessor;
 import com.practice.design.pattern.behavioural.chainofresponsibility.api.AuthenticationProvider;
+import com.practice.design.pattern.behavioural.chainofresponsibility.impl.provider.AuthTokenProvider;
 
 public class O2AuthAuthProcessor extends AuthenticationProcessor {
 

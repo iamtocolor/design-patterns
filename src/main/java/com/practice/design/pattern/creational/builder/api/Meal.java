@@ -16,7 +16,6 @@ public class Meal {
         private String burgerName;
 
         public Builder() {
-
         }
 
         public Builder buildDrink(String drinkname) {

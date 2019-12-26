@@ -1,4 +1,4 @@
-package com.practice.design.pattern.behavioural.chainofresponsibility.impl;
+package com.practice.design.pattern.behavioural.chainofresponsibility.impl.provider;
 
 import com.practice.design.pattern.behavioural.chainofresponsibility.api.AuthenticationProvider;
 

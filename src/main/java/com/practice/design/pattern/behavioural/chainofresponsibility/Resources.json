@@ -1,4 +1,5 @@
 {
-  "dzone" : "https://dzone.com/articles/design-patterns-uncovered-chain-of-responsibility",
-  "baeldung" : "https://www.baeldung.com/chain-of-responsibility-pattern"
+  "dzone": "https://dzone.com/articles/design-patterns-uncovered-chain-of-responsibility",
+  "baeldung": "https://www.baeldung.com/chain-of-responsibility-pattern",
+  "refactorGuru": "https://refactoring.guru/design-patterns/chain-of-responsibility"
 }

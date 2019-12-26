@@ -2,7 +2,7 @@ package com.practice.design.pattern.behavioural.chainofresponsibility;
 
 import com.practice.design.pattern.behavioural.chainofresponsibility.api.AuthenticationProcessor;
 import com.practice.design.pattern.behavioural.chainofresponsibility.api.AuthenticationProvider;
-import com.practice.design.pattern.behavioural.chainofresponsibility.impl.AuthTokenProvider;
+import com.practice.design.pattern.behavioural.chainofresponsibility.impl.provider.AuthTokenProvider;
 import com.practice.design.pattern.behavioural.chainofresponsibility.impl.O2AuthAuthProcessor;
 import com.practice.design.pattern.behavioural.chainofresponsibility.impl.UserNameAuthProcessor;
 
