@@ -1,8 +1,5 @@
 {
-  "medium" : [
-    "https://medium.com/nestedif/java-factory-method-976cf4e12ec0"
-  ],
-  "dzone" : [
-    "https://dzone.com/articles/design-patterns-factory"
-  ]
+  "medium": "https://medium.com/nestedif/java-factory-method-976cf4e12ec0",
+  "dzone": "https://dzone.com/articles/design-patterns-factory",
+  "refactorGuru": "https://refactoring.guru/design-patterns/factory-method"
 }
