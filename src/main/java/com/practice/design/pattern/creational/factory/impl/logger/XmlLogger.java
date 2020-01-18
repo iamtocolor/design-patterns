@@ -1,4 +1,4 @@
-package com.practice.design.pattern.creational.factory.impl;
+package com.practice.design.pattern.creational.factory.impl.logger;
 
 import com.practice.design.pattern.creational.factory.api.Logger;
 

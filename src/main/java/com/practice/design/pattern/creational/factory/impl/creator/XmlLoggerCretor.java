@@ -1,7 +1,8 @@
-package com.practice.design.pattern.creational.factory.impl;
+package com.practice.design.pattern.creational.factory.impl.creator;
 
 import com.practice.design.pattern.creational.factory.api.Creator;
 import com.practice.design.pattern.creational.factory.api.Logger;
+import com.practice.design.pattern.creational.factory.impl.logger.XmlLogger;
 
 public class XmlLoggerCretor extends Creator {
 
