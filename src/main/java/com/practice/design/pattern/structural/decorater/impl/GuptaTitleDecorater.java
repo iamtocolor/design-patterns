@@ -12,9 +12,6 @@ public class GuptaTitleDecorater extends NameDecorater {
     @Override
     public void printName() {
         super.printName();
-    }
-
-    public void printTitle() {
         System.out.println("Gupta");
     }
 }

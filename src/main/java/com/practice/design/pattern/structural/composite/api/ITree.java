@@ -7,6 +7,9 @@ public abstract class ITree {
 
     protected int data;
 
+    protected List<ITree> childrens = new ArrayList<ITree>();
+
+
     public int getData() {
         return data;
     }
@@ -14,8 +17,6 @@ public abstract class ITree {
     public void setData(int data) {
         this.data = data;
     }
-
-    protected List<ITree> childrens = new ArrayList<ITree>();
 
     public abstract void setChildren(List<ITree> iTrees);
 
